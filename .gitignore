@@ -1,0 +1,30 @@
+# Dependency directories
+node_modules/
+
+# User-specific files
+.npm
+.npmrc
+.yarn
+.yarnrc
+.pnpm
+
+# Environment variables
+.env
+
+# Runtime data
+pids
+logs
+results
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# OS generated files
+.DS_Store
+Thumbs.db
